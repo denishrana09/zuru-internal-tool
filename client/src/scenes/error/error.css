@@ -1,0 +1,67 @@
+.pppppppp{
+	color:red;
+	font-size: 50px;
+	border: 1px solid red;
+}
+
+
+body{
+	font-family: 'Love Ya Like A Sister', cursive;
+	background:#eaeaea;
+}
+
+.wrap{
+	margin:0 auto;
+	max-width:1000px;
+	width:100%;
+}
+.logo{
+	text-align:center;
+	margin-top:200px;
+}
+.logo img{
+	width:177px;
+}
+.logo p{
+	color:#272727;
+	font-size:40px;
+	margin-top:1px;
+}	
+.logo p span{
+	color:lightgreen;
+}	
+.sub a{
+	color:#fff;
+	background:#272727;
+	text-decoration:none;
+	padding:10px 20px;
+	font-size:13px;
+	font-family: arial, serif;
+	font-weight:bold;
+	-webkit-border-radius:.5em;
+	-moz-border-radius:.5em;
+	-border-radius:.5em;
+}
+
+.sub a:hover{
+	background:#000;
+}
+
+@media only screen and (max-width:414px)
+{
+	.logo{
+		margin-top:40px;
+	}
+
+	.logo p{
+		font-size:26px;
+		margin-top:24px;
+	}
+
+	.sub a{
+		padding:6px 20px;
+		-webkit-border-radius:.3em;
+		-moz-border-radius:.3em;
+		-border-radius:.3em;
+	}
+}

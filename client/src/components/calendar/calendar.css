@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', 'Raleway', 'Helvetica Neue', 'Helvetica', sans-serif;
+    font-size: 1rem;
+    font-weight: 900;
+    line-height: 1.5;
+    color: #212529;
+
+
+}
+h3{
+    font-family: 'Roboto', 'Helvetica Neue', 'Helvetica', sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+.calendar {
+    background: url("../../images/loginbgimage.jpg");
+    position: absolute;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+}
+
+.calendar-btn-container {
+    padding-top: 30px
+}
+
+.calendar-btn {
+    font-family: 'Roboto', 'Helvetica Neue', 'Helvetica', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #222;
+    line-height: 1.2;
+    text-transform: uppercase;
+    width: 60%;
+    height: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+    padding-top: 30px;
+    border: 1px solid #222;
+    background: transparent;
+}
+
+.calendar-btn:hover {
+    background: red;
+    color: white;
+    border-color: transparent;
+}
+
+.calendar-btn:active,
+.calendar-btn:focus {
+    background: red;
+    color: white;
+    border-color: transparent;
+    box-shadow: 0 0 0 3px rgba(255, 64, 53, 0.5);
+}
+
+.calendar-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%;
+    background-color: #fff;
+    margin: 0 auto;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.calendar-container img {
+    position: relative;
+    max-width: 75%;
+    height: 75%;
+    padding: 25px;
+}
+
+.calendar-group {
+    position: relative;
+    margin-bottom: 0;
+    padding-bottom: 0.5rem;
+}
+.calendar-group input {
+    position: relative;
+    padding-left: 0;
+    padding-right: 0;
+    border: 0;
+    font-size: 1.5rem;
+    box-shadow: none !important;
+    color: #212529;
+}
+.calendar-password{
+    width: 80%;
+}
+.date{
+    margin: 1rem !important;
+}
+
+@media (max-width: 576px) {
+    .calendar-container {
+        width: 80% !important;
+    }
+}
+@media (min-width: 577px) and (max-width: 768px) {
+    .calendar-container {
+        width: 75%;
+    }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+    .calendar-container {
+        width: 60%;
+    }
+}
+@media (min-width: 993px) and (max-width: 1200px) {
+    .calendar-container {
+        width: 50%;
+    }
+}
+@media (min-width: 1200px) {
+    .calendar-container {
+        width: 40%;
+    }
+}

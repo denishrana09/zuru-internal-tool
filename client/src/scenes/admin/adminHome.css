@@ -1,0 +1,51 @@
+
+.itemTabs {
+    text-align: center;
+    /*margin: 15px;*/
+    padding-top: 25px;
+
+}
+
+.addemployee {
+    font-size: 55px;
+}
+
+.nav {
+    text-align: center;
+    position: absolute;
+    left: 35%;
+    list-style: none;
+}
+
+.nav button {
+    font-size: 26px;
+    padding: 10px;
+    margin: 10px;
+}
+
+/*@media (min-width: 950px)*/
+/*{*/
+/*.MuiTab-label-69 {*/
+/*font-size: 18px ;*/
+/*font-weight: 900;*/
+/*}*/
+/*}*/
+.autoSuggest {
+    margin: 20px;
+    color: black !important;
+}
+
+.appBarTab span {
+    font-size: 1rem !important;
+    color: black !important;
+}
+
+
+
+
+
+
+
+
+
+

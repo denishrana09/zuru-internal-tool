@@ -1,0 +1,40 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.2.0",
+    "@material-ui/icons": "^1.1.0",
+    "autosuggest-highlight": "^3.1.1",
+    "axios": "^0.18.0",
+    "classnames": "^2.2.5",
+    "material-ui-pickers": "^1.0.0-rc.10",
+    "npm-auth": "^1.1.0",
+    "prop-types": "^15.6.1",
+    "query-string": "^6.1.0",
+    "raven-js": "^3.26.2",
+    "react": "^16.4.0",
+    "react-autosuggest": "^9.3.4",
+    "react-cookie": "^2.2.0",
+    "react-dom": "^16.4.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "reactjs-localstorage": "0.0.6",
+    "typeface-roboto": "0.0.54"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "lint": "eslint --ext .jsx --ext .js ./",
+    "lint-fix": "eslint --ext .jsx --ext .js ./ --fix"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.10.0"
+  }
+}

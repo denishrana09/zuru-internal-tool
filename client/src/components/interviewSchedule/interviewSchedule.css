@@ -1,0 +1,19 @@
+.tableWrapper{
+    overflow-x: auto;
+
+}
+.tableHeader{
+    color: #2196f3 !important;
+    font-size: 16px !important;
+    text-align: center!important;
+}
+.tableCell td, .tableCell th , .tableCell td div
+{
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    text-align: center!important;
+}
+.interviewTable{
+    text-align: center!important;
+}
+

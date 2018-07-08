@@ -1,0 +1,77 @@
+.statusModal{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 30%;
+    background-color: #eaeaea;
+    padding: 15px;
+    height: 40%;
+    border-radius: 10px ;
+}
+.buttons{
+    margin: 20px;
+    text-align: center;
+}
+.btn{
+    margin: 5% !important;
+}
+@media (max-width: 576px){
+    .statusModal{
+
+        width: 90%;
+        background-color: #eaeaea;
+        padding: 15px;
+        height: 35rem;
+    }
+}
+@media (min-width: 577px) and (max-width: 768px){
+    .statusModal{
+        width: 80%;
+        background-color: #eaeaea;
+        padding: 15px;
+        height: 35rem;
+    }
+}
+@media (min-width: 768px) and (max-width: 992px){
+    .statusModal{
+        width: 70%;
+        background-color: #eaeaea;
+        padding: 15px;
+        height: 35rem;
+    }
+}
+@media (min-width: 992px) and (max-width: 1200px){
+    .statusModal{
+        width: 60%;
+        background-color: #eaeaea;
+        padding: 15px;
+        height: 35rem;
+    }
+}
+@media (min-width: 1200px){
+    .statusModal{
+        width: 50%;
+        background-color: #eaeaea;
+        padding: 15px;
+        height: 35rem;
+    }
+}
+
+.date{
+    width: 100% !important;
+}
+.tableCell{
+    font-family: 'Roboto', 'Helvetica Neue', 'Helvetica', sans-serif;
+    font-size: 18px !important;
+    width: 50% ;
+}
+.typoSpace{
+    padding: 1rem;
+}
+.chip{
+    padding: 1rem !important;
+    margin: 0.3rem;
+    font-size: 16px !important;
+}
+
