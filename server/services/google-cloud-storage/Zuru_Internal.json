@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zuru-internal",
+  "private_key_id": "03077aa4f9726e35773781282d0553118bc9f160",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCu3wt7UkXqxQ+t\ndJiBU4brZTdaY94BPazNGVJNFyPxPQT2HikqSYA7e5Rgr1Ur9mgvrEiq1TAjOsCr\nW6fLZv1fxJ/fXINu1dVBv2JZhqnbwnIMKEWSghaTGFXgzXqFvViFhyaXLbLKTgKA\nf1jPH53aMazqOe4jwYeaQ2OaTK6SbnCZgctrKzVlKowtQL7THpWkMZiDl+GHdQL1\nwaqhrznyYsjYybdceFDXKWZg5aQoN4Yb0EI7Rdyu50jAFzPikO8thysVDcaLtMh7\nWJcR6Hn2viGzWfCT1CwJjvM3IPlfJ7GbnsJdna+JOiiqCPdILA1TJF16hpQeoF2L\nLuDI4jRxAgMBAAECggEACwI4IRKYG7Q9rSwEqMmXGg0Ua8CTOo1FKmFAdOFyzg5L\nGGpkKYkYhUYdnGuVR0/7FZs5NOX4YpNhizgZK10nsMZ6UQ+sJ4dXJk0z1hJ78X1/\nfAPyA0vku2xiBaWx46b8omVUeNpz4bgBANFjiCCDqbeMXO96Li6SCJRa+hz/NXEa\n+CIn81IfKEnPG/6oDZEmdyuKH16ChAuqwLqSjPaMAxaC2o+GzdW4QRutyni3bvfd\nENDx7G3M9YS8sOaSRrtlzQPuUogc3soOmy6VTG+KHadycV9xVGBfag6+oIEFiBhP\n9kwF397Khk4gCKmcUOiezuQII4QzW2sDEmF4+lrJMQKBgQD3EPi6h9s231mgdbZQ\nE+78wZ6s0lnBUjaKxIYc8AgwCUmqZroUWgB9F/93eOuDzY3stKpo575f/ub+ppw4\nSYU6nX6a/7HGsyu6h36XTuI6p2zZuGwfrTgLnT1rA2t4SZc5LLQg7O7EV5e+4PcW\n8DmzVlyOPlWODPL752qMqncF6QKBgQC1Mchd2JbHQgOHQXm1FNUYo+dd/iz19ud1\nNHRbmjkK1TmyzRBX3Gozp5bWB9LLAmT4d4M/0vbzOnupWiqCZYysPOdsTH6FOhjQ\nUp7COSU064nNVdqVbBiwKin+w0grzkOKj3Za5Y70TyUlR9fYlg/foB6pRgFYvg70\nYKRtsaE9SQKBgBrfJa5kCFu3fzAMnX+oK14iUPfLCSgVoQkGxu9uy/UtjW2TLrn3\n8AWrDoYYCMWVHdKY88/lJLecKdOYm3UjyfHOH28MUHGkGyV2hzY9xi1K+HPVsyze\n0jGxMHTrMk0q89+sFQtfubhxLnf8T+OWzS/MPNTbwsJodiUfzl7uS3PBAoGADCSR\n8Pga4q+h3OaeaWxD+6rATqRCDxnE2S3yvlDPkdJIU5s6hSjYVS3eBenwTnqSmbQo\nr5ZLxnEc6HSKdMKpcsGCINffgr4p+4wN56Y8wBco3QHr7CeaX/PzbIdZxtXD4P1M\nSTspIWZMbvspk/I6jhoE9AMlA/V4uxfe7RsCW0ECgYEAgymEYw5PytfBUE411nuX\nWULvcw5MHZun2k0GB12y/kPT2GHvcybYubf2X+WbeiBYcf5UW/SJ48alTgkCAuE7\nyLb7o07LsbHEcvpjG/LvaClc3KVTpcyyEarki9gOSAPOPB3ErAKH1nLJKvMIzAmA\nyYWC/xpyEyLnHWrBu50GR5Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "zuru-internal@zuru-internal.iam.gserviceaccount.com",
+  "client_id": "108049341871837983623",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zuru-internal%40zuru-internal.iam.gserviceaccount.com"
+}

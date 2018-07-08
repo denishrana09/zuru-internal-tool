@@ -1,0 +1,14 @@
+{
+    "baseUrl": "https://storage.googleapis.com/",
+    "buckets": {
+        "ZURU_RESUMES": "zuru-resumes/"
+    },
+    "signedUrlExpireMin" :"30",
+    "PROFILE_REVIEW_STATUS" : {
+        "PENDING" : "pending",
+        "ACCEPTED" : "accepted",
+        "REJECTED" : "rejected"
+
+    },
+    "permissions": "https://www.google.com/"
+}
